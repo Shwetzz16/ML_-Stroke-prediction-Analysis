@@ -1,4 +1,4 @@
-# ML_-Stroke-prediction-Analysis
+# ML-Stroke-prediction-Analysis
 # 🧠 Stroke Prediction Using Machine Learning
 
 This project uses machine learning to predict whether a patient is likely to experience a **stroke** based on clinical and demographic features.  
